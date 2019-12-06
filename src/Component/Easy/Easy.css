@@ -1,0 +1,33 @@
+.game{
+    background-image: url('../image/guess.jpg');
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+h1 {
+    color: white;
+    font-size: 60px;
+    border: 1px black;
+    text-shadow: 2px 2px 2px #000000;
+    text-decoration: underline;
+}
+input {
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 20px;
+}
+button {
+    width: 200px;
+    margin: 5px;
+    height: 10vh;
+}
+.mid {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 1px black;
+    background-color: #00000075;
+}

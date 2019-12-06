@@ -1,0 +1,26 @@
+.home {
+    background-image: url('../image/1.jpg');
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+li {
+    list-style: none;
+    font-size: 40px;
+    margin-top: 30%;
+}
+.button {
+    color: white;
+    border: 1px solid;
+    padding: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #000000db;
+}
+ul {
+    margin: 0px;
+}
